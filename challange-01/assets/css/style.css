@@ -1,0 +1,699 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
+.body {
+
+    background-color: #F1F3FF;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.hero {
+    height: 500px;
+    background-color: #F1F3FF;
+}
+
+.header-nav {
+    width: 1168px;
+    height: 36px;
+    top: 24px;
+    left: 136px;
+    background-color: #F1F3FF;
+
+}
+
+.navbar {
+    background-color: #F1F3FF;
+}
+
+.navbar-brand {
+    width: 100px;
+    height: 34px;
+    top: 25px;
+    left: 136px;
+    background: #0D28A6;
+
+}
+
+.navbar-nav {
+    height: 36px;
+    top: 24px;
+    left: 864px;
+    gap: 32px;
+    margin-left: auto;
+
+}
+
+.nav-item button {
+    background-color: #5CB85F;
+}
+
+
+.desk {
+    padding-top: 177px;
+}
+
+.desk h1 {
+    font-size: 36px;
+    width: 548px;
+    left: 136px;
+    height: 108px;
+    font-weight: 700;
+}
+
+.desk p {
+    width: 400px;
+    height: 60px;
+    top: 301px;
+    left: 136px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300px;
+}
+
+.btn {
+    height: 36px;
+    top: 377px;
+    left: 136px;
+    padding: 8px 12px 8px 12px;
+    border-radius: 2px;
+    gap: 10px;
+
+}
+
+.img-main {
+    margin-left: 40px;
+    width: 10px;
+    padding-top: 97px;
+}
+
+.img-main img {
+    height: 350px;
+    width: 435px;
+}
+
+
+
+.service-header {
+    width: 468px;
+    height: 72px;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.service-text {
+    width: 468px;
+    height: 60px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.list {
+    margin-top: 10px;
+    width: 285px;
+    height: 24px;
+    gap: 16px;
+    display: flex;
+}
+
+.list img {
+    width: 20px;
+    height: 24px;
+
+}
+
+.list p {
+    width: 255px;
+    height: 20px;
+    font-weight: 300px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+
+.why-us-header {
+    width: 468px;
+    height: 36px;
+    top: 1132px;
+    left: 136px;
+
+}
+
+.why-us-text {
+    width: 468px;
+    height: 20px;
+    padding-top: 10px;
+    left: 136px;
+
+}
+
+.header {
+    width: 113px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+.card-body {
+    height: 196px;
+
+}
+
+.tes {
+    width: 124px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.tes2 {
+    width: 133px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.Testimoni {
+    width: 832px;
+    height: 382px;
+    top: 1540px;
+    left: 304px;
+    border-radius: 8px;
+}
+
+.testi-header {
+    text-align: center;
+    height: 36px;
+    top: 1540px;
+    left: 487.5155029296875px;
+
+}
+
+.testi-text {
+    height: 20px;
+    padding-top: 10px;
+    left: 487.5155029296875px;
+    text-align: center;
+}
+
+
+.carousel {
+    margin: auto;
+    background: #F1F3FF;
+    top: 20px;
+    width: 832px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+
+.img-carousel {
+    margin-top: 70px;
+    margin-left: 200px;
+    width: 70px;
+    height: 80px;
+}
+
+.img-rate {
+    margin-top: 70px;
+    margin-left: 170px;
+    width: 80;
+    height: 16px;
+}
+
+.text-rate {
+    margin-left: 170px;
+    width: 415px;
+    height: 80px;
+}
+
+.text-name {
+    margin-left: 170px;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 48px;
+    width: 23px;
+}
+
+
+.banners {
+    margin-top: 70px;
+    background-color: #0D28A6;
+    height: 326px;
+    border-radius: 13px
+}
+
+.banner h1 {
+    width: 613px;
+    height: 54px;
+    left: 406px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.banner p {
+    padding-top: 60px;
+    width: 468px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.n{
+    margin: auto;
+    width: 500px;
+    margin-top: 90px;
+}
+
+.n button{
+    background-color: #5CB85F;
+    margin-left: 150px;
+}
+
+
+.FAQ {
+    margin-top: 50px;
+}
+
+.faq p {
+    margin-left: 20px;
+}
+
+
+.faq h1 {
+    margin-left: 20px;
+    font-size: 24px;
+    height: 36px;
+
+}
+
+.footer {
+    margin-top: 30px;
+}
+
+.link a {
+    height: 40px;
+    text-decoration: none;
+    color: #000000;
+    display: block;
+
+}
+
+.so div {
+    background-color: #0D28A6;
+    height: 34px;
+    width: 100px;
+}
+
+
+
+
+.img-service img{
+    width: 430px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* max-width */
+
+@media screen and (max-width: 990px) {
+
+
+    .hero {
+        height: 750px;
+    }
+
+    .desk {
+        margin-top: -100px;
+        width: 328px;
+        height: 292px;
+        top: 90px;
+        left: 16px;
+        gap: 16px;
+
+    }
+
+    .desk h1 {
+        margin: auto;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        width: 328px;
+        height: 216px;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 54px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+
+    .desk p {
+        margin: auto;
+        margin-left: 30px;
+        width: 328px;
+        height: 60px;
+        font-family: Helvetica;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: left;
+
+
+    }
+
+    .desk .btn {
+        margin: auto;
+        margin-left: 30px;
+        margin-top: 30px;
+        left: 16px;
+        border-radius: 2px;
+
+    }
+
+
+    .our-service {
+        margin-left: auto;
+        margin: auto;
+    }
+
+    .service-header {
+        margin: auto;
+        margin-top: 60px;
+        text-align: left;
+        padding-top: 10px;
+        font-weight: 700;
+        font-size: 24px;
+        height: 90px;
+        width: 300px;
+        line-height: 36px;
+    }
+
+    .service-text {
+        margin: auto;
+        text-align: left;
+        width: 300px;
+        height: 90px;
+        font-weight: 300px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .list {
+        display: flex;
+        width: 295px;
+        height: 24px;
+        gap: 16px;
+        margin: 20px auto;
+        padding-right: 30px;
+
+    }
+
+    .list img {
+        width: 24px;
+        height: 24px;
+
+    }
+
+    .list p {
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0em;
+        text-align: left;
+        height: 20px;
+        color: black;
+
+    }
+
+    .group-img {
+        margin-top: 20px;
+        margin: auto;
+        width: 24px;
+        height: 24px;
+
+    }
+
+
+
+    .why-us-header {
+        margin: auto;
+        text-align: center;
+        width: 330px;
+        height: 36px;
+        top: 1417px;
+
+    }
+
+    .why-us-text {
+        margin: auto;
+        text-align: center;
+        width: 330px;
+        height: 20px;
+        top: 1469px;
+    }
+
+    .card {
+        margin: auto;
+        margin-top: 10px;
+        width: 318px;
+        height: 392px;
+        border-radius: 8px;
+        border: 1px;
+        gap: 16px;
+        border: 1px solid #D0D0D0;
+    }
+
+    .testi-header {
+        margin: auto;
+        text-align: center;
+        width: 330px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+    }
+
+    .testi-text {
+        margin: auto;
+        text-align: center;
+        width: 330px;
+        height: 40px;
+        top: 2417px;
+    }
+
+    .carousel {
+        margin: auto;
+        width: 318px;
+        height: 392px;
+        border-radius: 8px;
+    }
+
+    .img-carousel {
+        margin-left: 120px;
+        width: 85px;
+        height: 80px;
+    }
+
+    .img-rate {
+        margin-top: -0px;
+        margin-left: 120px;
+    }
+
+    .text-rate {
+        margin-top: 10px;
+        margin-left: 30px;
+        width: 264px;
+        height: 148px;
+        font-weight: 300px;
+        font-size: 14px;
+        line-height: 20px;
+
+    }
+
+    .text-name {
+        width: 264px;
+        margin-top: -40px;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 20px;
+        letter-spacing: 0em;
+        margin-left: 30px;
+        color: #000000;
+    }
+
+    .banners {
+        width: 328px;
+        height: 400px;
+        top: 2953px;
+        margin: auto;
+        border-radius: 13px;
+    }
+
+    .banner h1 {
+        width: 212px;
+        height: 108px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .banner p {
+        width: 212px;
+        height: 80px;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .n{
+        width: 200px;
+    }
+    .n button{
+        background-color: #5CB85F;
+        margin-left: 1px;
+        width: 200px;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        width: 23.360002517700195px;
+        height: 48px;
+    }
+
+    .img-service {
+        align-items: center;
+        padding: 20px;
+        justify-content: center;
+        width: 300px;
+        margin: auto;
+        height: 200px;
+    }
+
+    .img-service img {
+
+        width: 250px;
+    }
+
+    .faq-header {
+        width: 328px;
+        height: 36px;
+        top: 3413px;
+        left: 16px;
+
+        margin: auto 5px;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+
+    .faq h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .faq p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .alamat p {
+        margin-left: 40px
+    }
+
+    .link a {
+        margin-left: 40px;
+    }
+
+    .sosial p {
+        margin-left: 40px;
+    }
+
+    .sosial-media img {
+        width: 20px;
+        margin-left: 40px;
+    }
+
+    .accordion {
+        width: 328px;
+        font-size: 14px;
+        margin-top: 50px;
+        margin: auto;
+    }
+
+    .so p {
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+
+
+    .so div {
+        background-color: #0D28A6;
+        height: 34px;
+        margin-left: 40px;
+        width: 100px;
+    }
+
+    .img-main{
+        margin-left: 50px;
+        margin-top: 150px;
+        width: 250px;
+    }
+
+    .img-main img{
+        margin-left: 60px;
+        height: 310px;
+        width: 500px;
+    }
+
+}
+
+
+@media screen and (max-width: 728px) {
+    .img-main img{
+        margin-left: -10px;
+        width: 300px;
+        height: 200px;
+    }
+}
+
+
+
+
+
